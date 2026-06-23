@@ -11,7 +11,8 @@ This is a web-based database viewer that connects directly to the UK Textiles Po
 ### Dashboard Overview
 The home screen loads a live summary of the entire database — total tables, total records across all tables, database size on disk, and the connected user. Each table is shown as a card with its row count and relative size visualised as a bar.
 
-![alt text](image.png)
+
+![alt text](assets/image.png)
 ![alt text](assets/image2.png)
 ![alt text](assets/image3.png)
 ## Live App
