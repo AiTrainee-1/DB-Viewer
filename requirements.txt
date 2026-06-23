@@ -1,6 +1,6 @@
 Flask
 psycopg2-binary
 python-dotenv
+gunicorn
 
 
-#pip install -r requirements.txt
